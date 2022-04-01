@@ -1,7 +1,7 @@
 import React from "react";
 import profilepic from "../images/profilepic.JPG";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { solid, regular, brands } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
+import { brands } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
 
 
 

@@ -17,7 +17,8 @@ export default function Header() {
         <Components.AboutMe />
         <Components.Portfolio />
         <Components.Resume /> 
-        <Components.Footer />
+        <Components.Contact />
+        <Components.Footer />        
       </div>
    
   );
