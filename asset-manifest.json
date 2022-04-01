@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Kovaceva11/Adam-React-Portfolio/static/css/main.ebdd8b21.css",
+    "main.js": "/Kovaceva11/Adam-React-Portfolio/static/js/main.3a5948a6.js",
+    "static/js/787.b8ac1a6f.chunk.js": "/Kovaceva11/Adam-React-Portfolio/static/js/787.b8ac1a6f.chunk.js",
+    "static/media/powderkeg.JPG": "/Kovaceva11/Adam-React-Portfolio/static/media/powderkeg.9004f608e55133f69d44.JPG",
+    "static/media/peekaboo.JPG": "/Kovaceva11/Adam-React-Portfolio/static/media/peekaboo.ba0fc2051471336e919d.JPG",
+    "static/media/profilepic.JPG": "/Kovaceva11/Adam-React-Portfolio/static/media/profilepic.cb70524512a4a9d68085.JPG",
+    "static/media/longdoug.JPG": "/Kovaceva11/Adam-React-Portfolio/static/media/longdoug.2f810b15fc6a260dfb8d.JPG",
+    "static/media/Denny.jpg": "/Kovaceva11/Adam-React-Portfolio/static/media/Denny.f2d334e9c11e8ce461d3.jpg",
+    "static/media/idghome1.png": "/Kovaceva11/Adam-React-Portfolio/static/media/idghome1.8af84fba154de085ddbe.png",
+    "static/media/CheapDateScreen2.png": "/Kovaceva11/Adam-React-Portfolio/static/media/CheapDateScreen2.fa8aceb40f78c518007c.png",
+    "static/media/pgw.png": "/Kovaceva11/Adam-React-Portfolio/static/media/pgw.f2951a2e4fd2504c47fb.png",
+    "static/media/countdowntimer.png": "/Kovaceva11/Adam-React-Portfolio/static/media/countdowntimer.19fc50a4c454f41d5176.png",
+    "static/media/dayplanner.jpg": "/Kovaceva11/Adam-React-Portfolio/static/media/dayplanner.7882ab6f71dca2e68eaa.jpg",
+    "static/media/employeeCMS.png": "/Kovaceva11/Adam-React-Portfolio/static/media/employeeCMS.e3968a5cc1b6ef641845.png",
+    "static/media/Flacon7x.jpg": "/Kovaceva11/Adam-React-Portfolio/static/media/Flacon7x.43aa9eae9662afe67d77.jpg",
+    "static/media/notepad.png": "/Kovaceva11/Adam-React-Portfolio/static/media/notepad.20c2b0277b3000545c40.png",
+    "static/media/teamprofilecreator.png": "/Kovaceva11/Adam-React-Portfolio/static/media/teamprofilecreator.ed32e1fece6a5e26155a.png",
+    "static/media/password_generator.png": "/Kovaceva11/Adam-React-Portfolio/static/media/password_generator.de397c10ce97900c080f.png",
+    "static/media/Adam_Kovacevich-Resume2022.pdf": "/Kovaceva11/Adam-React-Portfolio/static/media/Adam_Kovacevich-Resume2022.83e36139107db36d6e01.pdf",
+    "index.html": "/Kovaceva11/Adam-React-Portfolio/index.html",
+    "main.ebdd8b21.css.map": "/Kovaceva11/Adam-React-Portfolio/static/css/main.ebdd8b21.css.map",
+    "main.3a5948a6.js.map": "/Kovaceva11/Adam-React-Portfolio/static/js/main.3a5948a6.js.map",
+    "787.b8ac1a6f.chunk.js.map": "/Kovaceva11/Adam-React-Portfolio/static/js/787.b8ac1a6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebdd8b21.css",
+    "static/js/main.3a5948a6.js"
+  ]
+}
