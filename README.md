@@ -1,7 +1,7 @@
 # Adam-React-Portfolio
 This is my professional portfolio website, created using React, Node.js, Javascript, HTML and CSS. 
 ## Check out the Repository & Deployed Website Below!
-[Deployed Application via Github Pages](https://kovaceva11.github.io/Adam-React-Portfolio/#Resume)
+[Deployed Application via Github Pages](https://kovaceva11.github.io/Adam-React-Portfolio)
 
 [Link to the Git repo](https://github.com/Kovaceva11/Adam-React-Portfolio)
 ## Description
