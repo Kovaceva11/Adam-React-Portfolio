@@ -164,8 +164,7 @@ img {
 
 .bgimg-1 {
   background-image: url(./images/Denny.jpg);
-  height: 100vh;
-  width: 100%;
+  min-height: 100vh;
 }
 
 /* Second image (Portfolio) */
@@ -229,9 +228,9 @@ img {
 /*The Hero Image Text Box Placement*/
 .ak-display-middle {
   position: absolute;
-  top: 50%;
-  left: 53%;
-  transform: translate(-75%, -75%);
+  top: 33%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
 
@@ -347,6 +346,7 @@ img {
 
 .ak-show {
   display: block !important;
+  background-color: var(--skyblue);
 }
 
 .ak-card {

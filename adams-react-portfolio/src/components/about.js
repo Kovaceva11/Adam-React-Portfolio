@@ -9,15 +9,14 @@ export default function AboutMe() {
   return (
     <div className="ak-content ak-container ak-padding-64" id="about-me">
       <div className="ak-row ak-card">
-        <h3 className="ak-center">About Me</h3>
+        <h3 className="ak-center ak-bold">About Me</h3>
         <p className="ak-center ak-bold">
           <em>Ascending to new heights and crushing coding cruxes.</em>
         </p>
       </div>
 
       <p>
-        Although I have some web-design experience from the past, I have just
-        now began to unlock my full potential in Full-Stack Web Development.
+        I am a Full-Stack Web Developer and Software Engineer.
         From Front-End to Back-End; I am coding my very own beautiful, fully
         responsive websites and mobile applications. My goal is to become a
         Full-Stack Web Developer with a heavy focus on iOS and Android mobile

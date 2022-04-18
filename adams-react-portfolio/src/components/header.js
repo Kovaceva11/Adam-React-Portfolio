@@ -5,15 +5,8 @@ import Components from './index';
 export default function Header() {
   return (
     <div>
-        <Nav />
-      
-      <div className="bgimg-1" id="home">
-      <div className="ak-display-middle" style={{whiteSpace:'nowrap'}}>
-        <span className="ak-center ak-padding-large ak-black ak-xlarge ak-wide we-animate-opacity">Adam<span
-            className="ak-hide-small"> </span> Kovacevich</span>
-      </div>
-      </div>
-    
+        <Nav />     
+        <Components.Hero />
         <Components.AboutMe />
         <Components.Portfolio />
         <Components.Resume /> 

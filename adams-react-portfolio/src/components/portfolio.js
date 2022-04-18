@@ -22,12 +22,13 @@ export default function Portfolio() {
             <span className="ak-xxlarge ak-text-white ak-wide">PORTFOLIO</span>
           </div>
         </div>
+        <br></br>
     
         {/* <!--Portfolio of Work Completed--> */}
         <div className="ak-content ak-container ak-padding-32" id="portfolio">
           <div className="ak-row ak-card">
-            <h3 className="ak-center">My Awesome Projects</h3>
-            <p className="ak-center ak-bold"><em>Below is a collection of my recent work. I hope you enjoy.</em></p>
+            <h3 className="ak-center ak-bold">My Awesome Projects</h3>
+            <p className="ak-center">Below is a collection of my recent work. I hope you enjoy.</p>
           </div>
           
     
