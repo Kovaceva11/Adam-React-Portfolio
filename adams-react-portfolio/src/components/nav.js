@@ -14,7 +14,7 @@ export default function Nav() {
               title="Toggle Nav Menu"
               className="ak-bar-item ak-button ak-hover-skyblue ak-left ak-center"
             >
-              <FontAwesomeIcon  className="ak-bar-item ak-button ak-hover-skyblue ak-left" size='md' icon={solid('bars')}/>
+              <FontAwesomeIcon  className="ak-bar-item ak-button ak-hover-skyblue ak-left" size='lg' icon={solid('bars')}/>
             </button>
             <a href="#home" className="ak-bar-item ak-button">
               {" "}

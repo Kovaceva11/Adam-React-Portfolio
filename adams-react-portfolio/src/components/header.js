@@ -7,12 +7,11 @@ export default function Header() {
     <div>
         <Nav />     
         <Components.Hero />
-        <Components.AboutMe />
+        <Components.AboutMe />        
         <Components.Portfolio />
         <Components.Resume /> 
         <Components.Contact />
         <Components.Footer />        
-      </div>
-   
+      </div>   
   );
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { brands } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
+import { brands, solid } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
 
 import falcon from '../images/Flacon7x.jpg';
 import AdamResume from '../images/Adam_Kovacevich-Resume2022.pdf';
@@ -32,12 +32,12 @@ export default function Resume() {
       <p><i className="fa fa-home fa-fw ak-margin-right ak-large ak-text-grey"></i>Atlanta, GA</p>
       <p><i className="fa fa-envelope fa-fw ak-margin-right ak-large ak-text-grey"></i>akovacevich11@gmail.com</p>
       <p><i className="fa fa-phone fa-fw ak-margin-right ak-large ak-text-grey"></i>(269)-760-6886</p>
-      <p><a href={AdamResume} download="" target="_blank" rel="noreferrer"><button className="ak-center ak-button ak-light-grey ak-block"><i className="fas fa-file-pdf fa-fw"></i> Download My Resume</button></a></p>
+      <p><a href={AdamResume} download="" target="_blank" rel="noreferrer"><button className="ak-center ak-button ak-green ak-block"><i className="fas fa-file-pdf fa-fw"></i>Download My Resume <FontAwesomeIcon size='xl' icon={solid('file-pdf')}/></button></a></p>
       
       
       <p className="ak-large"><b><i className="fas fa-cogs fa-2x fa-fw ak-margin-right ak-text-skyblue"></i>Technologies</b></p>
       
-      <p className="ak-wide"><FontAwesomeIcon icon={brands('html5')}/>HTML</p>
+      <p className="ak-wide"><FontAwesomeIcon size='xl' icon={brands('html5')}/> HTML</p>
       <div className="ak-light-skyblue">
         <div
           className="ak-container ak-padding-small ak-dark-skyblue ak-center"
@@ -47,7 +47,7 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
-      <FontAwesomeIcon icon={brands('css3')}/>CSS
+      <FontAwesomeIcon size='xl' icon={brands('css3')}/> CSS
       </p>
       <div className="ak-light-skyblue">
         <div
@@ -58,7 +58,7 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
-      <FontAwesomeIcon icon={brands('JS')}/>Javascript
+      <FontAwesomeIcon size='xl' icon={brands('JS')}/> Javascript
       </p>
       <div className="ak-light-skyblue">
         <div
@@ -69,7 +69,7 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
-      <FontAwesomeIcon icon={brands('react')}/>React.js
+      <FontAwesomeIcon size='xl' icon={brands('react')}/> React.js
       </p>
       <div className="ak-light-skyblue">
         <div
@@ -80,7 +80,7 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
-      <FontAwesomeIcon icon={brands('node-js')}/>Node.js
+      <FontAwesomeIcon size='xl' icon={brands('node-js')}/> Node.js
       </p>
       <div className="ak-light-skyblue">
         <div
@@ -91,7 +91,7 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
-      <FontAwesomeIcon icon={brands('swift')}/>Swift
+      <FontAwesomeIcon size='xl' icon={brands('swift')}/> Swift
       </p>
       <div className="ak-light-skyblue">
         <div
@@ -102,7 +102,7 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
-      <FontAwesomeIcon icon={brands('android')}/>Kotlin
+      <FontAwesomeIcon size='xl' icon={brands('android')}/> Kotlin
       </p>
       <div className="ak-light-skyblue">
         <div
