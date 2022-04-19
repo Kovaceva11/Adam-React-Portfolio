@@ -7,6 +7,7 @@ export default function Header() {
     <div>
         <Nav />     
         <Components.Hero />
+        <Components.TechStack />
         <Components.AboutMe />        
         <Components.Portfolio />
         <Components.Resume /> 
