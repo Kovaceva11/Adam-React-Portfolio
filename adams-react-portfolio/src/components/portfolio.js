@@ -79,7 +79,7 @@ export default function Portfolio() {
                   <p className="ak-opacity">Shh. Its a secret.</p>
                   <p>This is my latest app build. However, it is still in the skunkworks laboratory... Not ready to be
                     unleashed. Click the buttons to view the apps Repo or Deployed version.</p>
-                  <p><button className="ak-button1 ak-light-grey ak-block icon-bgPurpDonut"><FontAwesomeIcon size="xl" icon={solid('code')}/><br></br> View Code</button></p>
+                  <p><button className="ak-button1 ak-light-grey ak-block icon-bgPurpDonut"><FontAwesomeIcon size="xl" icon={solid('code')}/><br></br> View Github Repo</button></p>
                   <p><button className="ak-button1 icon-bgGreen ak-light-grey ak-block"><FontAwesomeIcon size="xl" icon={solid('rocket')}/><br></br> View Deployed</button></p>
                 </div>                
               </div>
