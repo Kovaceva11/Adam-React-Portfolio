@@ -1,23 +1,20 @@
-import React, {Component} from 'react';
-import Carousel from 'react-elastic-carousel';
+import React from 'react';
+import ColorCard from './ColorCard';
+import ScrollBox from './ScrollBox';
+import COLORS from '../mocks/data.json';
+
 
 export default function TechStack() {
-  state = {
-    items: [
-      {id: 1, title: 'item #1'},
-      {id: 2, title: 'item #2'},
-      {id: 3, title: 'item #3'},
-      {id: 4, title: 'item #4'},
-      {id: 5, title: 'item #5'}
-    ]
-  }
-
-  
-    const { items } = this.state;
-    return (
-      <Carousel>
-        {items.map(item => <div key={item.id}>{item.title}</div>)}
-      </Carousel>
-    )
-  
+  return (
+    <div>
+    <h1 className="ak-xlarge ak-center ak-padding-64 ak-card">Technology Stack</h1>
+    <div className="ak-xlarge ak-center ak-padding-64 ak-card">
+    <ScrollBox>
+    {COLORS.map(({ color, id }) => (
+      <ColorCard color={color} key={id} />
+    ))}
+    </ScrollBox>
+    </div>
+    </div>
+  )
 }

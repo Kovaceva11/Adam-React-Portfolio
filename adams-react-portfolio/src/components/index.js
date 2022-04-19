@@ -6,7 +6,7 @@ import Nav from "./nav";
 import Portfolio from "./portfolio";
 import Hero from "./hero";
 import Resume from './resume';
-// import TechStack from './techStack';
+import TechStack from './techStack';
 
 
 let Components = {
@@ -18,7 +18,7 @@ let Components = {
     Portfolio,
     Hero,
     Resume,
-    // TechStack,
+    TechStack,
 };
 
 export default Components;
