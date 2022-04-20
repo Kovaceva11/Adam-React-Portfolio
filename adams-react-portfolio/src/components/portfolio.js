@@ -35,9 +35,9 @@ export default function Portfolio() {
       {/* <!--Portfolio of Work Completed--> */}
       <div className="ak-content ak-container ak-padding-32" >
         <div className="ak-row ak-card">
-          <h3 className="ak-center ak-bold">My Awesome Projects</h3>
+          <h1 className="ak-center ak-bold">My Awesome Projects</h1>
           <p className="ak-center">
-            Below is a collection of my recent work. I hope you enjoy.
+            Below is a collection of my software and web applications. This section is continuously updated. I hope you enjoy.
           </p>
         </div>
         <br></br>

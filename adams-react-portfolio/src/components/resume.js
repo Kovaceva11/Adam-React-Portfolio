@@ -150,11 +150,11 @@ export default function Resume() {
       
       <p>English</p>
       <div className="ak-light-grey ak-round-xlarge">
-        <div className="ak-round-xlarge ak-skyblue" style={{height:'24px', width:'55%'}}></div>
+        <div className="ak-round-xlarge ak-skyblue" style={{height:'24px', width:'100%'}}></div>
       </div>
       <p>French</p>
       <div className="ak-light-grey ak-round-xlarge">
-        <div className="ak-round-xlarge ak-skyblue" style={{height:'24px', width:'55%'}}></div>
+        <div className="ak-round-xlarge ak-skyblue" style={{height:'24px', width:'75%'}}></div>
       </div><br></br>          
       
     </div>
