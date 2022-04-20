@@ -716,7 +716,8 @@ export default function Portfolio() {
         <div className="ak-display-middle" style={{whiteSpace:'nowrap'}}>
           <span className="ak-xxlarge ak-padding-large ak-black ak-text-white ak-wide">
             Professional History
-          </span>
+          </span>   
+          
         </div>
       </div>
     </div>
