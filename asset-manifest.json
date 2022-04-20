@@ -1,31 +1,37 @@
 {
   "files": {
     "main.css": "/Adam-React-Portfolio/static/css/main.6e6f4eef.css",
-    "main.js": "/Adam-React-Portfolio/static/js/main.ffb20781.js",
+    "main.js": "/Adam-React-Portfolio/static/js/main.72a6d695.js",
     "static/js/787.b8ac1a6f.chunk.js": "/Adam-React-Portfolio/static/js/787.b8ac1a6f.chunk.js",
     "static/media/powderkeg.JPG": "/Adam-React-Portfolio/static/media/powderkeg.9004f608e55133f69d44.JPG",
     "static/media/peekaboo.JPG": "/Adam-React-Portfolio/static/media/peekaboo.ba0fc2051471336e919d.JPG",
     "static/media/profilepic.JPG": "/Adam-React-Portfolio/static/media/profilepic.cb70524512a4a9d68085.JPG",
     "static/media/longdoug.JPG": "/Adam-React-Portfolio/static/media/longdoug.2f810b15fc6a260dfb8d.JPG",
     "static/media/Denny.jpg": "/Adam-React-Portfolio/static/media/Denny.f2d334e9c11e8ce461d3.jpg",
+    "static/media/BookSearch.png": "/Adam-React-Portfolio/static/media/BookSearch.a0d3d706b8f9d7f9b9f4.png",
     "static/media/idghome1.png": "/Adam-React-Portfolio/static/media/idghome1.8af84fba154de085ddbe.png",
+    "static/media/quizgame.png": "/Adam-React-Portfolio/static/media/quizgame.98b6da4d97ce0f70c5af.png",
     "static/media/CheapDateScreen2.png": "/Adam-React-Portfolio/static/media/CheapDateScreen2.fa8aceb40f78c518007c.png",
     "static/media/pgw.png": "/Adam-React-Portfolio/static/media/pgw.f2951a2e4fd2504c47fb.png",
     "static/media/countdowntimer.png": "/Adam-React-Portfolio/static/media/countdowntimer.19fc50a4c454f41d5176.png",
+    "static/media/weather.png": "/Adam-React-Portfolio/static/media/weather.b7490974e87b2b20ca76.png",
     "static/media/dayplanner.jpg": "/Adam-React-Portfolio/static/media/dayplanner.7882ab6f71dca2e68eaa.jpg",
+    "static/media/SocialNetwork.png": "/Adam-React-Portfolio/static/media/SocialNetwork.8559ea0ae31638082ac6.png",
     "static/media/employeeCMS.png": "/Adam-React-Portfolio/static/media/employeeCMS.e3968a5cc1b6ef641845.png",
+    "static/media/readmeGen.png": "/Adam-React-Portfolio/static/media/readmeGen.bb2e0466b2f5fcff2c55.png",
     "static/media/Flacon7x.jpg": "/Adam-React-Portfolio/static/media/Flacon7x.43aa9eae9662afe67d77.jpg",
     "static/media/notepad.png": "/Adam-React-Portfolio/static/media/notepad.20c2b0277b3000545c40.png",
     "static/media/teamprofilecreator.png": "/Adam-React-Portfolio/static/media/teamprofilecreator.ed32e1fece6a5e26155a.png",
     "static/media/password_generator.png": "/Adam-React-Portfolio/static/media/password_generator.de397c10ce97900c080f.png",
     "static/media/Adam_Kovacevich-Resume2022.pdf": "/Adam-React-Portfolio/static/media/Adam_Kovacevich-Resume2022.83e36139107db36d6e01.pdf",
+    "static/media/Jatetexteditor.png": "/Adam-React-Portfolio/static/media/Jatetexteditor.4d5ae65c538cb5490079.png",
     "index.html": "/Adam-React-Portfolio/index.html",
     "main.6e6f4eef.css.map": "/Adam-React-Portfolio/static/css/main.6e6f4eef.css.map",
-    "main.ffb20781.js.map": "/Adam-React-Portfolio/static/js/main.ffb20781.js.map",
+    "main.72a6d695.js.map": "/Adam-React-Portfolio/static/js/main.72a6d695.js.map",
     "787.b8ac1a6f.chunk.js.map": "/Adam-React-Portfolio/static/js/787.b8ac1a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e6f4eef.css",
-    "static/js/main.ffb20781.js"
+    "static/js/main.72a6d695.js"
   ]
 }
