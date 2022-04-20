@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { brands, solid } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
 
 import falcon from '../images/Flacon7x.jpg';
-import AdamResume from '../images/Adam_Kovacevich-Resume2022.pdf';
+import AdamResume from '../images/AdamKovacevich-Resume2022.pdf';
 
 export default function Resume() {
     return (
