@@ -47,7 +47,7 @@ export default function Portfolio() {
           
           {/* <!--Second Paragraph To Side: About ME--> */}
           <div className="ak-col.m6 ak-padding-large ak-center">
-            <h3></h3>
+            
             <h4>
               I designed, created, and launched my current employer's website.
               Which I still manage today and can be viewed by clicking on the
