@@ -91,6 +91,39 @@ export default function Resume() {
         </div>
       </div>
       <p className="ak-wide">
+      <FontAwesomeIcon size='xl' icon={solid('database')}/> MongoDB
+      </p>
+      <div className="ak-light-skyblue">
+        <div
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          style={{ width: '95%' }}
+        >
+          95%
+        </div>
+      </div>
+      <p className="ak-wide">
+      <FontAwesomeIcon size='xl' icon={solid('database')}/> mySQL
+      </p>
+      <div className="ak-light-skyblue">
+        <div
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          style={{ width: '95%' }}
+        >
+          95%
+        </div>
+      </div>
+      <p className="ak-wide">
+      <FontAwesomeIcon size='xl' icon={solid('server')}/> Apollo GraphQL
+      </p>
+      <div className="ak-light-skyblue">
+        <div
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          style={{ width: '95%' }}
+        >
+          95%
+        </div>
+      </div>
+      <p className="ak-wide">
       <FontAwesomeIcon size='xl' icon={brands('swift')}/> Swift
       </p>
       <div className="ak-light-skyblue">
@@ -122,7 +155,7 @@ export default function Resume() {
       <p>French</p>
       <div className="ak-light-grey ak-round-xlarge">
         <div className="ak-round-xlarge ak-skyblue" style={{height:'24px', width:'55%'}}></div>
-      </div>          
+      </div><br></br>          
       
     </div>
   </div>

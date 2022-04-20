@@ -1,7 +1,7 @@
 import React from "react";
 import profilepic from "../images/profilepic.JPG";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { brands } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
+import { brands, solid } from '@fortawesome/fontawesome-svg-core/import.macro' // <-- import styles to be used
 
 
 
@@ -113,9 +113,9 @@ export default function AboutMe() {
       <div className="ak-light-skyblue">
         <div
           className="ak-container ak-padding-small ak-dark-skyblue ak-center"
-          style={{ width: '75%' }}
+          style={{ width: '95%' }}
         >
-          75%
+          95%
         </div>
       </div>
       <p className="ak-wide">
@@ -127,6 +127,39 @@ export default function AboutMe() {
           style={{ width: '100%' }}
         >
           100%
+        </div>
+      </div>
+      <p className="ak-wide">
+      <FontAwesomeIcon size='xl' icon={solid('database')}/> MongoDB
+      </p>
+      <div className="ak-light-skyblue">
+        <div
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          style={{ width: '95%' }}
+        >
+          95%
+        </div>
+      </div>
+      <p className="ak-wide">
+      <FontAwesomeIcon size='xl' icon={solid('database')}/> mySQL
+      </p>
+      <div className="ak-light-skyblue">
+        <div
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          style={{ width: '95%' }}
+        >
+          95%
+        </div>
+      </div>
+      <p className="ak-wide">
+      <FontAwesomeIcon size='xl' icon={solid('server')}/> Apollo GraphQL
+      </p>
+      <div className="ak-light-skyblue">
+        <div
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          style={{ width: '95%' }}
+        >
+          95%
         </div>
       </div>
       <p className="ak-wide">
