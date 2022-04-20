@@ -760,9 +760,10 @@ img {
     text-align: center;
   }
 
-  .ak-xxlarge {
-    font-size: 28px!important;
+  .ak-proHistory {
+    font-size: 30px !important;
   }
+
 }
 
 @media (min-width: 993px) {
@@ -846,4 +847,8 @@ img {
 .scroll-box__container {
   height: 100%;
   display: inline-flex;
+}
+
+.ak-proHistory {
+  font-size: 36px;
 }

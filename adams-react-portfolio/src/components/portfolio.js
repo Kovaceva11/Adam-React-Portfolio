@@ -714,7 +714,7 @@ export default function Portfolio() {
       </div>
       <div className="bgimg-3 ak-display-container ak-opacity-min">
         <div className="ak-display-middle" style={{whiteSpace:'nowrap'}}>
-          <span className="ak-xxlarge ak-padding-large ak-black ak-text-white ak-wide">
+          <span className="ak-proHistory ak-padding-large ak-black ak-text-white ak-wide">
             Professional History
           </span>   
           
