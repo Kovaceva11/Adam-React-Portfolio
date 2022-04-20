@@ -74,9 +74,9 @@ export default function Resume() {
       <div className="ak-light-skyblue">
         <div
           className="ak-container ak-padding-small ak-dark-skyblue ak-center"
-          style={{ width: '75%' }}
+          style={{ width: '95%' }}
         >
-          75%
+          95%
         </div>
       </div>
       <p className="ak-wide">
@@ -128,7 +128,7 @@ export default function Resume() {
       </p>
       <div className="ak-light-skyblue">
         <div
-          className="ak-container ak-padding-small ak-dark-skyblue ak-center"
+          className="ak-container ak-padding-small ak-dark-skyblue ak-center ak-black"
           style={{ width: '5%' }}
         >
           5%

@@ -26,48 +26,47 @@ export default function Portfolio() {
         className="bgimg-2 ak-display-container ak-opacity-min"
         id="portfolio"
       >
-        <div className="ak-display-middle">
-          <span className="ak-xxlarge ak-text-white ak-wide">PORTFOLIO</span>
+        <div className="ak-display-middle" style={{whiteSpace:'nowrap'}}>
+          <span className="ak-xxlarge ak-text-white ak-wide ak-padding-large ak-black">PORTFOLIO</span>
         </div>
       </div>
       <br></br>
 
       {/* <!--Portfolio of Work Completed--> */}
-      <div className="ak-content ak-container ak-padding-32" id="portfolio">
+      <div className="ak-content ak-container ak-padding-32" >
         <div className="ak-row ak-card">
           <h3 className="ak-center ak-bold">My Awesome Projects</h3>
           <p className="ak-center">
             Below is a collection of my recent work. I hope you enjoy.
           </p>
         </div>
+        <br></br>
 
         {/* <!-- Portfolio Gallery Grid --> */}
         <div className="ak-row-padding ak-container ak-card">
+          
+          {/* <!--Second Paragraph To Side: About ME--> */}
+          <div className="ak-col.m6 ak-padding-large ak-center">
+            <h3></h3>
+            <h4>
+              I designed, created, and launched my current employer's website.
+              Which I still manage today and can be viewed by clicking on the
+              image or button below. Project was completed and
+              launched in 2018.
+            </h4>
+            {/* <!-- <p>
+                Disclaimer: I used a website editor to help create the template for the overall design of www.IDGjets.com, I started with a blank. I ended up having to use some code as the editor was not feature-rich enough to let me do certain things. Therefore I used it's developer tools to manually edit the code.
+              </p> --> */}
+          </div>
           <div className="ak-col.m6 ak-center ak-padding-small">
             <a href="https://www.idgjets.com" target="_blank" rel="noreferrer">
               <img
                 src={idghome1}
                 className="ak-round ak-image ak-opacity-min ak-hover-opacity"
                 alt="IDG homepage"
-                width="100%"
+                width="66%"
               />
             </a>
-          </div>
-
-          {/* <!--Second Paragraph To Side: About ME--> */}
-          <div className="ak-col.m6 ak-padding-large ak-center">
-            <h3>My First Project</h3>
-            <h4>
-              I designed, created, and launched my current employer's website.
-              Which I still manage today and can be viewed by clicking on the
-              image above. Or the button below. Project was completed and
-              launched in 2018.
-            </h4>
-            {/* <!-- <p>
-                Disclaimer: I used a website editor to help create the template for the overall design of www.IDGjets.com, I
-                started with a blank. I ended up having to use some code as the editor was not feature-rich enough to let me
-                do certain things. Therefore I used it's developer tools to manually edit the code.
-              </p> --> */}
           </div>
 
           <div
@@ -108,7 +107,7 @@ export default function Portfolio() {
                 <p>
                   This is my latest app build. However, it is still in the
                   skunkworks laboratory... Not ready to be unleashed. Click the
-                  buttons to view the apps Repo or Deployed version.
+                  buttons to view the app's Repo or Deployed version.
                 </p>
                 <p>
                   <button className="ak-button1 ak-light-grey ak-block icon-bgPurpDonut">
@@ -714,8 +713,8 @@ export default function Portfolio() {
         </div>
       </div>
       <div className="bgimg-3 ak-display-container ak-opacity-min">
-        <div className="ak-display-middle">
-          <span className="ak-xxlarge ak-text-white ak-wide">
+        <div className="ak-display-middle" style={{whiteSpace:'nowrap'}}>
+          <span className="ak-xxlarge ak-padding-large ak-black ak-text-white ak-wide">
             Professional History
           </span>
         </div>
