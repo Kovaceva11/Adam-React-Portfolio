@@ -194,7 +194,7 @@ export default function Portfolio() {
        
           </div>
         </div>
-        <div className="bgimg-3 ak-display-container ak-opacity-min" id="contact">
+        <div className="bgimg-3 ak-display-container ak-opacity-min">
       <div className="ak-display-middle">
         <span className="ak-xxlarge ak-text-white ak-wide">Professional History</span>
       </div>

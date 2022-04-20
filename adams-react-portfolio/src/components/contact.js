@@ -5,7 +5,7 @@ import { solid } from '@fortawesome/fontawesome-svg-core/import.macro';
 
 export default function Contact() {
     return (
-        <div className="ak-content ak-container ak-padding-64">
+        <div className="ak-content ak-container ak-padding-64" id="contact">
       <h3 className="ak-center">The Mountains called...</h3>
       <p className="ak-center"><em>I answered.</em></p>
 
